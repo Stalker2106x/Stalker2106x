@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stalker2106x
 - 👀 I’m interested in Games/Tools programming
-- 🌱 I’m currently learning Rust
+- 🌱 Full-time DevOps
 - 💞️ I’m looking to collaborate on Godot
 - 📫 Email me at contact@maximemartens.fr
 
